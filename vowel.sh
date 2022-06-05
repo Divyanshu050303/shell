@@ -1,5 +1,4 @@
 #find out input character vowel digit or other consonant
-
 echo "Enter the data"
 read a
 case $a in
