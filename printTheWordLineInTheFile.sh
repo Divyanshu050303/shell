@@ -1,4 +1,5 @@
 #Print the number of character and word and number of line in the file
+
 numberOfChar=$(wc -c <$1)
 echo "Number of character $numberOfChar"
 numberOfWord=$(wc -w < $1)
