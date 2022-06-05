@@ -13,6 +13,7 @@ then
     fi
 elif [ $b -gt $a ]
 then
+
     if [ $b -gt  $c ]
     then
         echo "$b is greater amongest them"
