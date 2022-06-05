@@ -1,7 +1,5 @@
 # find the grade of a student of the basic of marks obtain in three subject
 
-
-
 echo "Enter the first subject number :"
 read a
 echo "Enter the second subject  number :"

@@ -1,4 +1,5 @@
 # input the day number and print the day name
+
 echo "Enter the day number"
 read a
 case $a in

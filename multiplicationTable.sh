@@ -1,6 +1,5 @@
 # print multiplication table
 echo "Enter the number"
-
 read m
 i=1
 while [ $i -le 10 ]

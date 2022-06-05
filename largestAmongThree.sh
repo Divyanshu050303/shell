@@ -1,7 +1,4 @@
-#find the largest  thee number
-
-
-
+#find the largest  three number
 echo "Enter the first number :"
 read a
 echo "Enter the second number :"
