@@ -1,5 +1,4 @@
 #Reverse the number
-
 echo "Enter the number which you want to reverse"
 read n
 rem=0
